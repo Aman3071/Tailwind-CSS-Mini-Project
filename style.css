@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+    
+.box {
+ @apply bg-red-500 w-[250px] h-44 text-black m-4 p-4 border-2 border-black rounded-2xl sm:bg-blue-500 md:bg-green-500;
+}
+        
+    
